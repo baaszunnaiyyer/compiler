@@ -1,0 +1,9 @@
+have x = (10 - 2 * 3) / 2;
+have y = 7; //First
+
+agar(1) {
+    x = 3;
+}warna {
+    x = 4;
+}
+produce (x);
